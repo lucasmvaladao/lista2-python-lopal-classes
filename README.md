@@ -58,4 +58,4 @@ Cada exercício está separado em arquivos individuais ou agrupado por temas (fu
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/lucasmvaladao/seu-repositorio.git
+git clone https://github.com/lucasmvaladao/lista2-python-lopal-classes.git
